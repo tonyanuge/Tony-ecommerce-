@@ -1,0 +1,44 @@
+Name:Tony Anuge
+Student Number: C18731921
+
+
+Features:
+
+User login & sign up
+Admin & sign up
+Carts
+
+
+After Creating Database,
+create admin table,
+
+Step 1: Open a browser and go to URL “http://localhost/My-ecommerce/admin/register.php”
+
+Step 2: Admin Registration
+
+Step 2:Insert the username and password.
+
+Step 3:If login successful, user is redirected to index page(cart home)
+
+
+create user table,
+
+Step 1: Open a browser and go to URL “http://localhost/My-ecommerce/cust_log/register.php”
+
+Step 2: Register details/ create an account
+
+Step 3:Prompt to loging page. user Insert username and password.
+
+Step 4:If login successful, user is redirected to index page(cart home)
+
+
+Final Step: on index page user can select product, quantity, add product to cart, place order and give reviews.
+
+
+
+Reference:
+https://www.w3schools.com/
+https://codeshack.io
+https://phppot.com/php/simple-php-shopping-cart/
+https://codeshack.io/secure-registration-system-php-mysql/
+
